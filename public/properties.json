@@ -1,0 +1,199 @@
+{
+  "properties": [
+    {
+      "id": "prop1",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 750000,
+      "tenure": "Freehold",
+      "description": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior.",
+      "longDescription": "<p>This charming three-bedroom semi-detached family home is perfectly situated just 0.5 miles from Petts Wood station, offering quick and convenient access to London via fast trains. The location provides easy walking distance to local shops, reputable schools, various bus routes, and the beautiful National Trust woodland - ideal for family walks and outdoor activities.</p><p><strong>Ground Floor:</strong> The property welcomes you with an inviting entrance hallway leading to two generously sized reception rooms, perfect for family living and entertaining guests. The fitted kitchen/breakfast room (18'9 x 10'1) is modern and functional, flowing seamlessly into a light-filled conservatory that overlooks the garden. Additional practical features include a separate utility room and a convenient downstairs cloakroom.</p><p><strong>First Floor:</strong> Upstairs, you'll find three well-proportioned bedrooms and a family bathroom complete with a separate WC. All rooms benefit from ample natural light and storage space.</p><p><strong>Features:</strong> The property boasts double glazing throughout, efficient gas central heating, and has been meticulously maintained with a well-presented interior ready for immediate occupation.</p>",
+      "location": "Petts Wood Road, Petts Wood, Orpington BR5",
+      "postcode": "BR5",
+      "picture": "/images/properties/prop1/image1.jpg",
+      "gallery": [
+        "/images/prop1pic1.jpg",
+        "/images/prop1pic2.jpg",
+        "/images/prop1pic3.jpg",
+        "/images/prop1pic4.jpg",
+        "/images/prop1pic5.jpg",
+        "/images/prop1pic6.jpg"
+      ],
+      "floorPlan": "/images/floorplan1.jpg",
+      "coordinates": { "lat": 51.3886, "lng": 0.0749 },
+      "added": {
+        "month": "October",
+        "day": 12,
+        "year": 2022
+      }
+    },
+    {
+      "id": "prop2",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 399995,
+      "tenure": "Leasehold",
+      "description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances.",
+      "longDescription": "<p>This exceptional two double bedroom garden flat is presented in excellent decorative order throughout, offering modern living in a highly desirable location. The property has been meticulously maintained and upgraded to provide a contemporary and comfortable living space.</p><p><strong>Living Area:</strong> The heart of this home is the spacious open-plan living area featuring a modern fitted kitchen with high-quality integrated appliances including a dishwasher and washing machine. The living space boasts beautiful solid wooden floors and benefits from bi-folding doors that open onto a secluded private courtyard garden, creating a seamless indoor-outdoor living experience.</p><p><strong>Bedrooms:</strong> Both bedrooms are generously sized doubles, each offering ample space for furniture and storage. The master bedroom features built-in wardrobes and en-suite access.</p><p><strong>Bathrooms:</strong> The property features two bathrooms - a family bathroom with a matching three-piece suite and shower attachment over the bath, plus a separate modern wet room.</p><p><strong>Additional Features:</strong> Throughout the property you'll find elegant walnut doors, wiring for Sky TV/aerial points in both the living area and bedrooms, and the reassurance of a remaining 10-year building guarantee.</p>",
+      "location": "Crofton Road, Orpington BR6",
+      "postcode": "BR6",
+      "picture": "/images/prop2pic1.jpg",
+      "gallery": [
+        "/images/prop2pic1.jpg",
+        "/images/prop2pic2.jpg",
+        "/images/prop2pic3.jpg",
+        "/images/prop2pic4.jpg",
+        "/images/prop2pic5.jpg",
+        "/images/prop2pic6.jpg",
+        "/images/prop2pic7.jpg"
+      ],
+      "floorPlan": "/images/floorplan2.jpg",
+      "coordinates": { "lat": 51.3675, "lng": 0.0984 },
+      "added": {
+        "month": "September",
+        "day": 14,
+        "year": 2022
+      }
+    },
+    {
+      "id": "prop3",
+      "type": "House",
+      "bedrooms": 4,
+      "price": 925000,
+      "tenure": "Freehold",
+      "description": "Stunning four bedroom detached family home in sought-after location. Recently renovated to highest standards with open-plan kitchen/diner, luxury bathrooms and south-facing garden.",
+      "longDescription": "<p>This magnificent four-bedroom detached family home has been recently renovated to the highest standards and is situated in one of the area's most sought-after locations. The property combines contemporary design with practical family living.</p><p><strong>Ground Floor:</strong> A spacious entrance hall leads to a formal living room with feature fireplace and bay window. The highlight is the stunning open-plan kitchen/diner/family room which spans the entire rear of the property. This bright space features bespoke fitted kitchen units, quartz worktops, premium integrated appliances, and bi-folding doors opening onto the south-facing garden.</p><p><strong>First Floor:</strong> Four generous bedrooms including a master suite with walk-in wardrobe and en-suite shower room. The family bathroom features luxury sanitaryware with underfloor heating.</p><p><strong>Exterior:</strong> The south-facing rear garden is mainly laid to lawn with established planting and patio area. Off-street parking for two cars and a single garage complete this exceptional family home.</p>",
+      "location": "The Avenue, London NW1",
+      "postcode": "NW1",
+      "picture": "/images/prop3pic1.jpg",
+      "gallery": [
+        "/images/prop3pic1.jpg",
+        "/images/prop3pic2.jpg",
+        "/images/prop3pic3.jpg",
+        "/images/prop3pic4.jpg",
+        "/images/prop3pic5.jpg",
+        "/images/prop3pic6.jpg",
+        "/images/prop3pic7.jpg",
+        "/images/prop3pic8.jpg"
+      ],
+      "floorPlan": "/images/floorplan3.jpg",
+      "coordinates": { "lat": 51.5320, "lng": -0.1420 },
+      "added": {
+        "month": "March",
+        "day": 22,
+        "year": 2023
+      }
+    },
+    {
+      "id": "prop4",
+      "type": "Flat",
+      "bedrooms": 1,
+      "price": 325000,
+      "tenure": "Leasehold",
+      "description": "Modern one bedroom apartment in newly developed complex. Features balcony with city views, secure underground parking and access to gym and concierge services.",
+      "longDescription": "<p>This contemporary one-bedroom apartment is located within a prestigious newly developed complex, offering modern city living with premium amenities. The property has been finished to a high specification throughout.</p><p><strong>Living Space:</strong> The open-plan living area is bright and spacious, featuring large windows that flood the space with natural light. The modern fitted kitchen includes sleek handle-less units, composite stone worktops, and integrated appliances. Glass doors open onto a private balcony offering impressive city views.</p><p><strong>Bedroom:</strong> The generously sized double bedroom features fitted wardrobes and elegant decor. Large windows provide plenty of natural light.</p><p><strong>Bathroom:</strong> The contemporary bathroom features a walk-in rainfall shower, vanity unit with storage, and premium fixtures and fittings.</p><p><strong>Building Amenities:</strong> Residents benefit from secure underground parking, 24-hour concierge service, state-of-the-art gym, private cinema room, and beautifully landscaped communal gardens.</p>",
+      "location": "Riverside Drive, London SW15",
+      "postcode": "SW15",
+      "picture": "/images/prop4pic1.jpg",
+      "gallery": [
+        "/images/prop4pic1.jpg",
+        "/images/prop4pic2.jpg",
+        "/images/prop4pic3.jpg",
+        "/images/prop4pic4.jpg",
+        "/images/prop4pic5.jpg",
+        "/images/prop4pic6.jpg"
+      ],
+      "floorPlan": "/images/floorplan4.jpg",
+      "coordinates": { "lat": 51.4639, "lng": -0.2138 },
+      "added": {
+        "month": "June",
+        "day": 8,
+        "year": 2023
+      }
+    },
+    {
+      "id": "prop5",
+      "type": "House",
+      "bedrooms": 5,
+      "price": 1200000,
+      "tenure": "Freehold",
+      "description": "Impressive five bedroom Victorian terraced house with original period features. Recently extended to include large kitchen/diner and home office. Close to excellent schools.",
+      "longDescription": "<p>This impressive five-bedroom Victorian terraced house beautifully combines original period features with contemporary living spaces. The property has been thoughtfully extended and refurbished to create a wonderful family home in a prime location close to excellent schools.</p><p><strong>Ground Floor:</strong> The property retains many original features including ornate cornices, ceiling roses, and fireplaces. The reception rooms include a formal drawing room and a separate dining room. The rear extension has created a magnificent open-plan kitchen/diner/family room with bi-folding doors opening onto the garden.</p><p><strong>Lower Ground Floor:</strong> This level features a versatile home office/study, utility room, and large storage areas. There is also direct access to the garden.</p><p><strong>First & Second Floors:</strong> Five well-proportioned bedrooms including a master suite with dressing area and en-suite bathroom. There are two further family bathrooms, one with a freestanding bath.</p><p><strong>Exterior:</strong> The west-facing rear garden is landscaped with patio area, lawn, and mature planting. There is side access and a shed for storage.</p>",
+      "location": "Victoria Park Road, London E14",
+      "postcode": "E14",
+      "picture": "/images/prop5pic1.jpg",
+      "gallery": [
+        "/images/prop5pic1.jpg",
+        "/images/prop5pic2.jpg",
+        "/images/prop5pic3.jpg",
+        "/images/prop5pic4.jpg",
+        "/images/prop5pic5.jpg",
+        "/images/prop5pic6.jpg",
+        "/images/prop5pic7.jpg"
+      ],
+      "floorPlan": "/images/floorplan5.jpg",
+      "coordinates": { "lat": 51.5145, "lng": -0.0145 },
+      "added": {
+        "month": "January",
+        "day": 15,
+        "year": 2024
+      }
+    },
+    {
+      "id": "prop6",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 675000,
+      "tenure": "Leasehold",
+      "description": "Luxury two bedroom penthouse with panoramic river views. Features private roof terrace, underfloor heating and smart home technology throughout.",
+      "longDescription": "<p>This exceptional two-bedroom penthouse offers luxury living with breathtaking panoramic river views. Located on the top floor of a prestigious development, the property features high-end finishes and premium amenities.</p><p><strong>Interior:</strong> The open-plan living area is exceptionally spacious with floor-to-ceiling windows showcasing stunning river views. The bespoke kitchen features Italian marble worktops, Gaggenau appliances, and a central island with breakfast bar. The property benefits from underfloor heating throughout and integrated smart home technology.</p><p><strong>Bedrooms:</strong> Both bedrooms are double-sized with fitted wardrobes. The master bedroom features an en-suite bathroom with luxury sanitaryware and a walk-in rainfall shower.</p><p><strong>Terrace:</strong> The private roof terrace is a particular highlight, offering exceptional outdoor space with glass balustrades, built-in seating, and preparation area - perfect for entertaining with stunning views.</p><p><strong>Building Features:</strong> Residents enjoy access to a 24-hour concierge, indoor swimming pool, sauna, steam room, private dining room, and secure underground parking with electric charging points.</p>",
+      "location": "Thames Quay, London SE1",
+      "postcode": "SE1",
+      "picture": "/images/prop6pic1.jpg",
+      "gallery": [
+        "/images/prop6pic1.jpg",
+        "/images/prop6pic2.jpg",
+        "/images/prop6pic3.jpg",
+        "/images/prop6pic4.jpg",
+        "/images/prop6pic5.jpg",
+        "/images/prop6pic6.jpg",
+        "/images/prop6pic7.jpg",
+        "/images/prop6pic8.jpg"
+      ],
+      "floorPlan": "/images/floorplan6.jpg",
+      "coordinates": { "lat": 51.5014, "lng": -0.0719 },
+      "added": {
+        "month": "August",
+        "day": 3,
+        "year": 2024
+      }
+    },
+    {
+      "id": "prop7",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 850000,
+      "tenure": "Freehold",
+      "description": "Beautiful three bedroom mews house with private parking and courtyard garden. Recently refurbished with high-spec kitchen and bathrooms. Quiet cul-de-sac location.",
+      "longDescription": "<p>This beautiful three-bedroom mews house has been recently refurbished to an exceptionally high standard and is located in a quiet cul-de-sac, offering a peaceful retreat while being close to local amenities.</p><p><strong>Ground Floor:</strong> The property features an open-plan kitchen/living/dining area with bi-folding doors opening onto a private courtyard garden. The kitchen is fitted with bespoke units, quartz worktops, and premium appliances. There is also a convenient downstairs cloakroom.</p><p><strong>First Floor:</strong> Two generous double bedrooms and a luxurious family bathroom with freestanding bath and separate walk-in shower. Both bedrooms feature fitted wardrobes and high-quality finishes.</p><p><strong>Second Floor:</strong> The entire second floor is dedicated to the master suite, featuring a spacious bedroom area, walk-in wardrobe, and en-suite bathroom with double vanity unit.</p><p><strong>Exterior:</strong> The private courtyard garden is perfect for outdoor dining and entertaining. There is off-street parking for one car - a rare feature in this central location.</p><p><strong>Location:</strong> Situated in a quiet cul-de-sac, the property offers peace and privacy while being just minutes from excellent transport links, shops, restaurants, and parks.</p>",
+      "location": "Mews Lane, London W1",
+      "postcode": "W1",
+      "picture": "/images/prop7pic1.jpg",
+      "gallery": [
+        "/images/prop7pic1.jpg",
+        "/images/prop7pic2.jpg",
+        "/images/prop7pic3.jpg",
+        "/images/prop7pic4.jpg",
+        "/images/prop7pic5.jpg",
+        "/images/prop7pic6.jpg"
+      ],
+      "floorPlan": "/images/floorplan7.jpg",
+      "coordinates": { "lat": 51.5155, "lng": -0.1443 },
+      "added": {
+        "month": "November",
+        "day": 20,
+        "year": 2024
+      }
+    }
+  ]
+}
