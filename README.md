@@ -14,14 +14,7 @@ A responsive, client-side Single Page Application (SPA) for searching and managi
 
 ## Technical Stack
 
-- **React 18** with Hooks
-- **React Router 6** for navigation
-- **React DnD** for drag-and-drop
-- **React Select** for form controls
-- **React Datepicker** for date selection
-- **Jest & React Testing Library** for testing
-- **CSS Grid & Flexbox** for layout
-- **Content Security Policy** for security
+Deploy URL : https://space-ly-beta.vercel.app/
 
 ## Installation
 
@@ -30,5 +23,4 @@ A responsive, client-side Single Page Application (SPA) for searching and managi
 git clone https://github.com/yourusername/estate-app.git
 cd estate-app
 
-## Live Demo
-Deploy URL : https://space-ly-beta.vercel.app/
+
