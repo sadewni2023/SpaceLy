@@ -13,7 +13,7 @@ import FeaturedSection from './components/FeaturedSection';
 import { useFavourites } from './hooks/useFavourites';
 import './styles/main.css';
 
-// Image sets for each property type (consistent within each property)
+
 const propertyImageSets = {
   // Modern Houses
   modernHouse: [
@@ -105,7 +105,7 @@ const mapImages = {
 // Properties data with consistent image sets
 const propertiesData = {
   "properties": [
-    // Original 7 properties with consistent images
+   
     {
 
       "id": "prop1",
@@ -213,7 +213,7 @@ const propertiesData = {
       "added": { "month": "November", "day": 20, "year": 2024 }
     },
     
-    // 9 NEW PROPERTIES with consistent images
+   
     {
       "id": "prop8",
       "type": "House",
