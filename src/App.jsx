@@ -17,7 +17,6 @@ import ContactPage from './components/ContactPage';
 import FavouritesPage from './components/FavouritesPage';
 import './styles/main.css';
 
-// Different image sets for each property (16 unique sets)
 const propertyImageSets = {
   // PROP 1: Modern Family Home
   prop1: [
