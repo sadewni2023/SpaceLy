@@ -16,6 +16,10 @@ A responsive, client-side Single Page Application (SPA) for searching and managi
 
 Deploy URL : https://space-ly-beta.vercel.app/
 
+## Github Repo URL
+
+https://github.com/sadewni2023/SpaceLy.git
+
 ## Installation
 
 1. Clone the repository:
