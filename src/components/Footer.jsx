@@ -86,7 +86,7 @@ const Footer = () => {
           <div className="footer-bottom">
             <p>&copy; {currentYear} Spacely. All rights reserved.</p>
             <p style={{ marginTop: '8px', fontSize: '12px', color: 'rgba(255, 255, 255, 0.5)' }}>
-              This website is for educational purposes. All property listings are fictional.
+              This website is for business purposes. All property listings are fictional.
             </p>
           </div>
         </div>
