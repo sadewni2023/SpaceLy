@@ -12,7 +12,7 @@ A responsive, client-side Single Page Application (SPA) for searching and managi
 - 🧪 **Comprehensive Testing** with Jest
 - 🚀 **Live Deployment** ready
 
-## Technical Stack
+## Live Demo
 
 Deploy URL : https://space-ly-beta.vercel.app/
 
